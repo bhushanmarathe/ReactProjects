@@ -1,0 +1,8 @@
+body {
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center; /* Horizontally center */
+  align-items: center; /* Vertically center */
+  font-family: Arial, sans-serif; /* Optional: for better font */
+}
